@@ -11,7 +11,24 @@
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
   </header>
 </h1>
-</body>
+
+     <input type="reset" value="Limpar">
+        <button type="submit" onclick="redirecionar()">Enviar</button>
+
+    </form>
+
+    <script>
+        document.getElementById("cadastroForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            alert("Cadastro realizado com sucesso!");
+            redirecionar();
+        });
+
+        function redirecionar() {
+            window.location.href = 'index2.html';
+        }
+    </script>
+
 
 
 
