@@ -1,4 +1,4 @@
-<html lang="pt-BR">
+html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,7 +18,7 @@
   <button onclick=“window.location.href=‘Maju.html’;”>Maju.html</button>
 
   <!-- Botão 2: redireciona para honorio.html -->
-  <button onclick=“window.location.href=‘honorip.html’;”>honorio.html</button>
+  <button onclick=“window.location.href=‘honorio.html’;”>honorio.html</button>
 
 </body>
 </html>
