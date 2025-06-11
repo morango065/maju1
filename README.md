@@ -28,6 +28,15 @@
             window.location.href = 'Maju.html';
         }
     </script>
+    </input>
+
+    </body>
+
+<\html>
+
+
+
+    
 
 
 
