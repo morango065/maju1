@@ -9,49 +9,34 @@
   <header>
     <h1> saiba oque quiser do mundo das plantas 🌱</h1>
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
-  </header>
+  </header> 
 
 
-     
-        <button type="submit" onclick="redirecionar()">curiosidades</button>
 
-  <script>
+  
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Botões com Redirecionamento</title>
+</head>
+<body>
 
-    
-        document.getElementById("cadastroForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            alert("escolha sucedida!");
-            redirecionar();
-        });
-
-        function redirecionar() {
-            window.location.href = 'Maju.html';
-        }
-    </script>
-    </body>
-    <body>
-    <button type="submit" onclick="redirecionar()">cuidados</button>
+  <button onclick="honorio.html()">honorio.html</button>
+  <button onclick="maju.html()">maju.html</button>
 
   <script>
+    function honorio.html() {
+      window.open("honorio.html");
+    }
 
-    
-        document.getElementById("cadastroForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            alert("escolha sucedida!");
-            redirecionar();
-        });
+    function maju.html() {
+      window.open("maju.html");
+    }
+  </script>
 
-        function redirecionar() {
-            window.location.href = 'honorio.html';
-        }
-    </script>
-
-
-
-     
-
- 
-    </body>
+</body>
+</html>
 
 
 
