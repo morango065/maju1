@@ -20,12 +20,12 @@
     <script>
         document.getElementById("cadastroForm").addEventListener("submit", function(event) {
             event.preventDefault();
-            alert("Cadastro realizado com sucesso!");
+            alert("escolha sucedida!");
             redirecionar();
         });
 
         function redirecionar() {
-            window.location.href = 'index2.html';
+            window.location.href = 'Maju.html';
         }
     </script>
 
