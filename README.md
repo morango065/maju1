@@ -18,22 +18,14 @@
 
 
 
-  <button onclick="honorio.html()">honorio.html</button>
-  <button onclick="maju.html()">maju.html</button>
+<script>
+  <button onclick="window.location.href='maju.html';">ir para maju.html</button>
 
-  <script>
-    function (redirecionar) {
-      window.open("honorio.html");
-    }
 
-    function (redirecionar) {
-      window.open("maju.html");
-    }
-  </script>
 
-</body>
-</html>
 
+  
+</script>
 
 
 
