@@ -10,12 +10,12 @@
     <h1>🌱 saiba oque quiser do mundo das plantas 🌱</h1>
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
   </header>
-</h1>
 
-     <input type="reset" value="Limpar">
-        <button type="submit" onclick="redirecionar()">Enviar</button>
 
-    </form>
+     
+        <button type="submit" onclick="redirecionar()">curiosidades</button>
+
+  
 
     <script>
         document.getElementById("cadastroForm").addEventListener("submit", function(event) {
@@ -28,11 +28,11 @@
             window.location.href = 'Maju.html';
         }
     </script>
-    </input>
+    
 
     </body>
 
-<\html>
+
 
 
 
