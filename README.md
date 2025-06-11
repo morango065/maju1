@@ -10,12 +10,8 @@
     <h1>🌱 saiba oque quiser do mundo das plantas 🌱</h1>
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
   </header>
-
-  </body>
-</h1>>
-
-
-<button onclick="window.location.href='https//www.google.com'"curiosidade das plantas"</button>
+</h1>
+</body>
 
 
 
