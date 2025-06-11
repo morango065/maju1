@@ -32,20 +32,8 @@
 
 
      
- <button type="submit" onclick="redirecionar()">cuidados</button>
 
-  
-
-    <script>
-            document.getElementById("cadastroForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            alert("escolha sucedida!");
-            redirecionar();
-        });
-
-        function redirecionar() {window.location.href = 'honorio.html';
-        }
-        </script>
+ 
     </body>
 
 
