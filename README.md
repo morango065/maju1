@@ -8,12 +8,15 @@
 <body>
   <header>
     <h1> saiba oque quiser do mundo das plantas 🌱</h1>
+  </header>
+  <script>
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
-  <button onclick="window.l
+  <a href="Maju.html">
+  <button>Ir para outra página</button>
+</a>
 
-    
-
-
+</script>
+</body>
 
 
 
