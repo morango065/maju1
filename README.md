@@ -22,11 +22,11 @@
   <button onclick="maju.html()">maju.html</button>
 
   <script>
-    function honorio.html() {
+    function (redirecionar) {
       window.open("honorio.html");
     }
 
-    function maju.html() {
+    function (redirecionar) {
       window.open("maju.html");
     }
   </script>
