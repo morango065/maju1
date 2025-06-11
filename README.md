@@ -28,6 +28,8 @@
             window.location.href = 'Maju.html';
         }
     </script>
+    </body>
+    <body>
     <button type="submit" onclick="redirecionar()">cuidados</button>
 
   <script>
