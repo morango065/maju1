@@ -14,11 +14,9 @@
 
 
   
-<!DOCTYPE html>
-<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Botões com Redirecionamento</title>
+  <maju.html>Botões com Redirecionamento</maju.html>
 </head>
 <body>
 
