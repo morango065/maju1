@@ -28,7 +28,7 @@
             window.location.href = 'Maju.html';
         }
     </script>
-    <button type="submit" onclick="redirecionar()">curiosidades</button>
+    <button type="submit" onclick="redirecionar()">cuidados</button>
 
   <script>
 
