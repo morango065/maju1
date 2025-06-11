@@ -12,7 +12,7 @@
   </header> 
 
 
-<h1>Bem-vindo à Página Inicial</h1>
+
 
   <!-- Botão 1: redireciona para Maju.html -->
   <button onclick=“window.location.href=‘Maju.html’;”>Maju.html</button>
