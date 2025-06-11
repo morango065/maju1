@@ -14,8 +14,8 @@
 
 <h1>Bem-vindo à Página Inicial</h1>
 
-  <!-- Botão 1: redireciona para maju.html -->
-  <button onclick=“window.location.href=‘maju.html’;”>maju.html</button>
+  <!-- Botão 1: redireciona para Maju.html -->
+  <button onclick=“window.location.href=‘Maju.html’;”>Maju.html</button>
 
   <!-- Botão 2: redireciona para honorio.html -->
   <button onclick=“window.location.href=‘honorip.html’;”>honorio.html</button>
