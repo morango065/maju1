@@ -12,12 +12,12 @@
   </header>
 
 
-     
+     <script>
         <button type="submit" onclick="redirecionar()">curiosidades</button>
 
   
 
-    <script>
+    
         document.getElementById("cadastroForm").addEventListener("submit", function(event) {
             event.preventDefault();
             alert("escolha sucedida!");
