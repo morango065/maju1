@@ -12,24 +12,17 @@
   </header> 
 
 
+<h1>Bem-vindo à Página Inicial</h1>
 
-  
+  <!-- Botão 1: redireciona para maju.html -->
+  <button onclick=“window.location.href=‘maju.html’;”>maju.html</button>
 
-
-
-
-<script>
-  <button onclick="window.location.href='maju.html';">ir para maju.html</button>
-
-
-
-
-  
-</script>
-
-
+  <!-- Botão 2: redireciona para honorio.html -->
+  <button onclick=“window.location.href=‘honorip.html’;”>honorio.html</button>
 
 </body>
+</html>
+
     
 
 
@@ -54,5 +47,4 @@
 
 
   
-</html>
-  
+
