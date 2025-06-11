@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>🌱 saiba oque quiser do mundo das plantas 🌱</h1>
+    <h1> saiba oque quiser do mundo das plantas 🌱</h1>
     <p>Descubra fatos incríveis sobre o mundo vegetal!</p>
   </header>
 
