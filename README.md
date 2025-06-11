@@ -32,6 +32,11 @@
       <p>Conhecida como "maria-fecha-a-porta", essa planta reage ao toque como mecanismo de defesa.</p>
     </section>
 
+    <section class="curiosity">
+      <h2>as orquideas podem se disfarçar na natureza</h2>
+      <p>algumas especies de orquidea imitam cheiro, a forma e ate a textura de insetos para atrair polinizadores.</p>
+    </section>
+
     
 
   <script src="script.js"></script>
