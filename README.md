@@ -14,11 +14,9 @@
 
 
   
-<head>
-  <meta charset="UTF-8">
-  <maju.html>Botões com Redirecionamento</maju.html>
-</head>
-<body>
+
+
+
 
   <button onclick="honorio.html()">honorio.html</button>
   <button onclick="maju.html()">maju.html</button>
