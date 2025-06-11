@@ -14,10 +14,10 @@
 
 <script>
 
-  <!-- Botão 1: redireciona para Maju.html -->
+  <!-- botton: redireciona para Maju.html -->
   <button onclick=“window.location.href=‘Maju.html’;”>curiosidades</button>
 
-  <!-- Botão 2: redireciona para honorio.html -->
+  <!-- botton: redireciona para honorio.html -->
   <button onclick=“window.location.href=‘honorio.html’;”>honorio.html</button>
     </scipt>
 </body>
